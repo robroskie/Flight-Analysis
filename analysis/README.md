@@ -1,0 +1,1 @@
+This directory will contain all drafts and works in progress.

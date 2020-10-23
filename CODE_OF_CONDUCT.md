@@ -4,10 +4,7 @@
 
 In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+our community a harassment-free experience for everyone, as per the UBC Student code of conduct and section 15 of the Canadian Charter of Rights and Freedoms.
 
 ## Our Standards
 
@@ -74,3 +71,7 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
+
+https://www.canada.ca/en/canadian-heritage/services/how-rights-protected/guide-canadian-charter-rights-freedoms.html#a5
+
+https://students.ubc.ca/campus-life/student-code-conduct#when-does-the-code-apply
