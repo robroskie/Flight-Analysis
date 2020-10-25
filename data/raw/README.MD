@@ -1,2 +1,2 @@
 This directory will contain only raw data. 
-The current data set files are too large to upload and need to be cleaned first.
+The inital dataset files, downloaded from zenodo.org, are contained in the oversized_data folder. This directory is included in the .gitignore file and is ignored by Github. The rawdata.csv file is the inital raw data file that will be used for the project.
