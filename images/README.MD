@@ -1,3 +1,3 @@
 This directory will contain all image files relating to the project.
 
-![haha.jpg]
+![/haha.jpg]
