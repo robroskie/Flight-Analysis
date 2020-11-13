@@ -5,14 +5,24 @@ How Covid19 Has Affected Air Travel Around The World
 
 ## Milestones
 
-Milestone I: Created Github repository as per course specifications.
-             Selected dataset and had it approved by TA Amir. 
-             Introduced, described and imported dataset as a Pandas dataframe to Github repository using Python.
-    Completed: October 25, 2020
+Milestone I: + Created Github repository as per course specifications.
+             + Selected dataset and had it approved by TA Amir. 
+             + Introduced, described and imported dataset as a Pandas dataframe to Github repository using Python.
+    **Completed: October 25, 2020**
+
+Milestone II:+ Marked down all README files using different elements.
+             + Wrote chained the data processing methods to make them more streamline.
+             + Wrapped the newly written method chains in functions to make them reusable.
+             + Moved function wrapped method chains to a seperate .py file.
+             + Conducted EDA on the dataset and revised research questions. 
+             + Created plots to begin testing EDA hypotheses.
+    **In Progress**
+
 
 ## Describe your topic/interest in about 150-200 words
 
-Using this data, I want to quantify and show visually just how much of an impact the COVID19 outbreak has had on the airline industry, since the beginning of the pandemic response back around March 2020. I will filter the data by region and analyze the daily flight volumes from January 2019 to September 2020. The change in both domestic and international daily flights will be looked at, as well as a comparison will be made between cargo and passenger air travel. I am predicting that a downward trend in passenger flights will be seen from March 2019 to present, while cargo flight volumes will have increased slightly. This is of specific interest to me because I started a new job in aircraft maintenance just before the pandemic hit and have seen first-hand the impact of COVID19 on the aviation industry as a whole. There are more than enough data and parameters to build a dashboard with this dataset. 
+Using this data, I want to quantify and show visually just how much of an impact the COVID19 outbreak has had on the airline industry, since the beginning of the pandemic response back around March 2020. The data will be loaded and filtered to incorporate seperate dataframes for passenger and cargo airlines. The overall change in daily flight volumes will be presented, with the **prediction being that a downward trend in passenger flights will be seen from March 2019 to present, while cargo flight volumes will have either stayed the same or increased slightly. I also anticipate that with a decrease in overall passenger flights from March onwards this year, the ratio of domestic to international flights will increase.**
+This is of specific interest to me because I started a new job in aircraft maintenance just before the pandemic hit and have seen first-hand the impact of COVID19 on the aviation industry as a whole. There are more than enough data and parameters to build a dashboard with this dataset. 
 
 ## Describe your dataset in about 150-200 words
 
@@ -30,6 +40,9 @@ https://zenodo.org/record/4088202#.X5G_sEJKjOQ
 Used as a reference:
 https://traffic-viz.github.io/scenarios/covid19.html
 
+Airport iata codes taken from this repository:
+https://github.com/datasets/airport-codes.git
+
 Credit to:
 Matthias Schäfer, Martin Strohmeier, Vincent Lenders, Ivan Martinovic and Matthias Wilhelm.
 "Bringing Up OpenSky: A Large-scale ADS-B Sensor Network for Research".
@@ -38,7 +51,6 @@ In Proceedings of the 13th IEEE/ACM International Symposium on Information Proce
 Xavier Olive.
 "traffic, a toolbox for processing and analysing air traffic data."
 Journal of Open Source Software 4(39), July 2019.
-
 
 
 
