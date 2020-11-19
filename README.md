@@ -13,15 +13,15 @@ Milestone I: + Created Github repository as per course specifications.
 Milestone II:+ Marked down all README files using different elements.
              + Wrote chained the data processing methods to make them more streamline.
              + Wrapped the newly written method chains in functions to make them reusable.
-             + Moved function wrapped method chains to a seperate .py file.
+             + Moved function wrapped method chains to a separate .py file.
              + Conducted EDA on the dataset and revised research questions. 
              + Created plots to begin testing EDA hypotheses.
-    **In Progress**
+    **Completed: November 18, 2020**
 
 
 ## Describe your topic/interest in about 150-200 words
 
-Using this data, I want to quantify and show visually just how much of an impact the COVID19 outbreak has had on the airline industry, since the beginning of the pandemic response back around March 2020. The data will be loaded and filtered to incorporate seperate dataframes for passenger and cargo airlines. The overall change in daily flight volumes will be presented, with the **prediction being that a downward trend in passenger flights will be seen from March 2019 to present, while cargo flight volumes will have either stayed the same or increased slightly. I also anticipate that with a decrease in overall passenger flights from March onwards this year, the ratio of domestic to international flights will increase.**
+Using this data, I want to quantify and show visually just how much of an impact the COVID19 outbreak has had on the airline industry, since the beginning of the pandemic response back around March 2020. The data will be loaded and filtered to incorporate separate dataframes for passenger and cargo airlines. The overall change in daily flight volumes will be presented, with the **prediction being that a downward trend in passenger flights will be seen from March 2019 to present, while cargo flight volumes will have either stayed the same or increased slightly. I also anticipate that with a decrease in overall passenger flights from March onwards this year, the ratio of domestic to international flights will increase.**
 This is of specific interest to me because I started a new job in aircraft maintenance just before the pandemic hit and have seen first-hand the impact of COVID19 on the aviation industry as a whole. There are more than enough data and parameters to build a dashboard with this dataset. 
 
 ## Describe your dataset in about 150-200 words
@@ -30,7 +30,7 @@ The dataset I am using for this project was retrieved from zenodo.org. It consis
 
 ## Team Members
 
-- Luke Roblesky: I started working in the aircraft maintenance industry just before the pandemic hit.
+- Luke Roblesky: I was working in the aircraft maintenance industry just before the pandemic hit.
 
 ## References
 
