@@ -26,6 +26,23 @@ def load_and_process_path(path):
     #This function returns sorted counts by date of the passed in dataframe 
 
 
+def process_dates(df):
+
+   
+    #Filter for date and remove time from first and last seen categories
+    df['firstseen'] = df['firstseen'].str.slice(stop=10)
+
+    #Create datetime formatted column
+    df['date'] = pd.to_datetime(df['firstseen'], format = '%Y-%m-%d')
+    
+    df.dropna(subset = ['date'])
+    
+    return df
+
+
+    
+
+    #This function returns sorted counts by date of the passed in dataframe 
 
 
 
