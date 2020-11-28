@@ -6,14 +6,12 @@
 
 ### To do
 
-### In progress
-1. Chain raw data analysis methods
-1. Chain processed data analysis methods
-1. Test chain methods
-1. Wrap chain methods in a function 
-1. Move function to a new .py file
-1. Revisit research questions and revise if necessary
-
 ### Complete 
 + Downloaded and added raw .csv files to */data/raw/oversized_data folder 
 + All data contained in oversized_data folder is applied to .gitignore 
++ Chain raw data analysis methods
++ Chain processed data analysis methods
++ Test chain methods
++ Wrap chain methods in a function 
++ Move function to a new .py file
++ Revisit research questions and revise if necessary
