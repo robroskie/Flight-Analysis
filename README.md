@@ -18,6 +18,18 @@ Milestone II:+ Marked down all README files using different elements.
              + Created plots to begin testing EDA hypotheses.
     **Completed: November 18, 2020**
 
+Milestone III:+ Marked down all README files using different elements.
+             + Wrote chained the data processing methods to make them more streamline.
+             + Wrapped the newly written method chains in functions to make them reusable.
+             + Moved function wrapped method chains to a separate .py file.
+             + Conducted EDA on the dataset and revised research questions. 
+             + Created plots to begin testing EDA hypotheses.
+    **Completed: November 28, 2020**
+
+Milestone IV:+ Project video complete and available at: https://www.youtube.com/watch?v=VluC2S7ztLs&feature=youtu.be
+    **Completed: December 3rd, 2020**
+
+
 
 ## Describe your topic/interest in about 150-200 words
 
